@@ -1,6 +1,6 @@
 # 兆能ZN-M2 openwrt 无wifi 无USB 弱电箱专用
 
-https://github.com/openwrt-fork/zn-m2-openwrt-build.git
+https://github.com/openwrt-fork/zn-m2-openwrt-build
 
 自用款固件 弱电箱专用 想用passwall 推荐内存512M以上 内核版本 4.4.60
 
