@@ -20,11 +20,11 @@ permissions:
   actions: write
 
 env:
-  REPO_URL: https://github.com/KK2018gh/ipq6000sdf.git
+  REPO_URL: https://github.com/KK2018gh/M2-sdf8057.git
   # REPO_URL: https://github.com/openwrt-fork/sdf8057-ipq6000.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: ./config/m2-test.config
+  CONFIG_FILE: ./config/m2.config
   DIY_P1_SH: ./scripts/diy-part1.sh
   DIY_P2_SH: ./scripts/diy-part2.sh
   DIY_P3_SH: ./scripts/diy-part3.sh
